@@ -24,6 +24,6 @@ bash "$seq_depth_location" \
 ```
 # options
 - `-i | --input` Path to the input fastq files. If not supplied, the files are expected in the current working directory
-- `-g | --genome_size` Size of the reference genome
+- `-g | --genome_size` Size of the reference genome. Default: 500000
 - `-p | --prefix` Prefix used to name output files (default 'coolproject')
 - `-o | --outdir` Output directory (default '.')
