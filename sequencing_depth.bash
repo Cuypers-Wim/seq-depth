@@ -263,22 +263,6 @@ rm "$PREFIX"_basecounts.txt
 
 }
 
-# set variables
-
-# data="/mnt/data/wcuypers/groupC1/coverage"
-# outDir="/mnt/data/wcuypers/groupC1/coverage/test2"
-# prefix="groupC1"
-
-#######
-# GenomeSize Typi CT18
-# genomeSize=4809037
-#######
-
-#######
-# GenomeSize Concord
-# genomeSize=4811936
-#######
-# run 
 
 #
 # MAIN
