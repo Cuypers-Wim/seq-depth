@@ -1,6 +1,6 @@
 #!/bin/bash
 
-##	© Wim Cuypers, please do not share or distribute without permission (cuyperswim001@gmail.com)
+##	Wim Cuypers (cuyperswim001@gmail.com)
 ##
 ## Script to count the number of sequenced bases in fastq files
 ##
