@@ -22,3 +22,8 @@ bash "$seq_depth_location" \
 	-p salmonella \
 	-o "$output_directory"
 ```
+# options
+- `-i | --input` Path to the input fastq files. If not supplied, the files are expected in the current working directory
+- `-g | --genome_size` Size of the reference genome
+- `-p | --prefix` Prefix used to name output files (default 'coolproject')
+- `-o | --outdir` Output directory (default '.')
